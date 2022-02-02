@@ -1,6 +1,6 @@
 
 
-<h3 title="nome"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />Olá, meu nome é Paulo!</h3>
+<h1 title="nome"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />Olá, meu nome é Paulo!</h1>
 <br>
 
 Sou **Analista de Qualidade de Software** 🚀 
