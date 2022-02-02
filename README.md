@@ -6,7 +6,6 @@
 Sou **Analista de Qualidade de Software** 🚀 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Sobre mim!**
 - :man_technologist: Me interesso por Automação de testes em geral
 - :man_student: Formado em Analise e desenvolvimento de Software
 <br>
